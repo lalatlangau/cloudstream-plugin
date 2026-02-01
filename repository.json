@@ -1,0 +1,17 @@
+{
+  "name": "MTS CloudStream Plugins",
+  "description": "CloudStream 3 Plugins Repository - Streaming film dan drama Asia",
+  "version": 2,
+  "baseUrl": "https://github.com/lalatlangau/cloudstream-plugins/raw/main",
+  "plugins": [
+    {
+      "url": "https://github.com/lalatlangau/cloudstream-plugins/raw/main/LayarKaca21/build.gradle.kts",
+      "name": "LayarKaca21",
+      "description": "Streaming film dan drama Asia",
+      "version": 1,
+      "authors": ["MTS"],
+      "language": "id",
+      "status": 1
+    }
+  ]
+}
